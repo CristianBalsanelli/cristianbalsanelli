@@ -1,16 +1,22 @@
-## Hi there 👋
+😁# Olá, meu nome é Cristian Balsanelli!</br>
+💻Sou estudante de Desenvolvimento de Sistemas!</br>
+🛠Me preparando para futuras oportunidades!</br>
+📬Contato: cristianbalsanelli@gmail.com</br>
 
-<!--
-**CristianBalsanelli/cristianbalsanelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Tecnologias que estudo
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+ <img align="center" alt="HTML" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+ <img align="center" alt="CSS" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="C++" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Python" height="40" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+ </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-balsanelli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:cristianbalsanelli@gmail.com) 
