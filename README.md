@@ -1,11 +1,3 @@
-### 🐍 Jogo da Cobrinha
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Grid Snake" src="https://githubusercontent.com">
-</picture>
-
 😁# Olá, meu nome é Cristian Balsanelli!</br>
 💻Sou estudante do curso técnico em Desenvolvimento de Sistemas na Escola Técnica Estadual de São Paulo!</br>
 🛠Me preparando para futuras oportunidades!</br>
@@ -31,7 +23,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-balsanelli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:cristianbalsanelli@gmail.com) 
 
+### 🐍 Jogo da Cobrinha
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://[githubusercontent.com](https://github.com/CristianBalsanelli)">
+  <source media="(prefers-color-scheme: light)" srcset="https://[githubusercontent.com](https://github.com/CristianBalsanelli)">
+  <img alt="GitHub Grid Snake" src="https://githubusercontent.com">
+</picture>
 
 
 
