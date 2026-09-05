@@ -26,10 +26,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 ### 🐍 Jogo da Cobrinha
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Grid Snake" src="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">?v=1 
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">?v=1
+  <img alt="GitHub Grid Snake" src="https://githubusercontent.com">?v=1
 </picture>
+
 
 
 
