@@ -1,5 +1,5 @@
 😁# Olá, meu nome é Cristian Balsanelli!</br>
-💻Sou estudante do curso técnico em Desenvolvimento de Sistemas!</br>
+💻Sou estudante do curso técnico em Desenvolvimento de Sistemas na Escola Técnica Estadual de São Paulo!</br>
 🛠Me preparando para futuras oportunidades!</br>
 📬Contato: cristianbalsanelli@gmail.com</br>
 ®Logo</br>
