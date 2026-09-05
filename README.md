@@ -23,4 +23,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-balsanelli)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:cristianbalsanelli@gmail.com) 
 
-![Snake animation] github.com/CristianBalsanelli
+# Olá! 👋
+
+![Animação da Cobrinha](https://githubusercontent.com)
+
+
