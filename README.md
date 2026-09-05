@@ -2,6 +2,9 @@
 💻Sou estudante do curso técnico em Desenvolvimento de Sistemas!</br>
 🛠Me preparando para futuras oportunidades!</br>
 📬Contato: cristianbalsanelli@gmail.com</br>
+®Logo</br>
+<img src="https://github.com/CristianBalsanelli/cristianbalsanelli/blob/main/cb%20sw3.png" alt="Texto alternativo" width="200"></br></br>
+
 
 #Tecnologias que estudo
 <div style="display: inline_block"><br>
