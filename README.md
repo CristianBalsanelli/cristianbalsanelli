@@ -24,7 +24,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:cristianbalsanelli@gmail.com) 
 
 ### 🐍 Jogo da Cobrinha
-
 <picture>
   <source media="(prefers-color-scheme: dark)" 
           srcset="https://raw.githubusercontent.com/CristianBalsanelli/CristianBalsanelli/output/github-contribution-grid-snake-dark.svg">
